@@ -1,0 +1,4 @@
+MCStyle
+=======
+
+StyleGuide for MC
